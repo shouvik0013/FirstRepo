@@ -28,3 +28,6 @@ while True:
             file.truncate()
         print("Fun hours.....")
     time.sleep(5)
+
+    This is for testing purpose
+    
